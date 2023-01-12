@@ -10,7 +10,7 @@ public class EmailApp {
 
         System.out.println(email.showInfo());
 
-        email.setChangePassword("XYz@123");
+        email.setChangePassword("XYz@1234");
 
         System.out.println(email.showInfo());
 
